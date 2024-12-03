@@ -1,0 +1,8 @@
+snapshot/
+models/
+hand_optimizer/__pycache__/
+__pycache__/
+MatrixLSTM_lr/__pycache__/
+MatrixLSTM/__pycache__/
+DataSet/__pycache__/
+.idea/
